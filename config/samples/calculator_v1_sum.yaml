@@ -1,0 +1,6 @@
+apiVersion: calculator.sample.domain/v1
+kind: Sum
+metadata:
+  name: sum-sample
+spec:
+  # TODO(user): Add fields here
